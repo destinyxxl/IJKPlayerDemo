@@ -31,6 +31,7 @@
 		9D95403B20DA6A6900239EDE /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9D95403A20DA6A6900239EDE /* UIKit.framework */; };
 		9D95403D20DA6A6E00239EDE /* VideoToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9D95403C20DA6A6E00239EDE /* VideoToolbox.framework */; };
 		9D95403F20DA6AC000239EDE /* libc++.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 9D95403E20DA6AC000239EDE /* libc++.tbd */; };
+		9D95404120DB5E8800239EDE /* IJKMediaFramework.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9D95404020DB5E8800239EDE /* IJKMediaFramework.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -65,6 +66,7 @@
 		9D95403A20DA6A6900239EDE /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		9D95403C20DA6A6E00239EDE /* VideoToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = VideoToolbox.framework; path = System/Library/Frameworks/VideoToolbox.framework; sourceTree = SDKROOT; };
 		9D95403E20DA6AC000239EDE /* libc++.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = "libc++.tbd"; path = "usr/lib/libc++.tbd"; sourceTree = SDKROOT; };
+		9D95404020DB5E8800239EDE /* IJKMediaFramework.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = IJKMediaFramework.framework; sourceTree = "<group>"; };
 		F2EDF5F484ED807C968099F7 /* Pods-ijkplayer_demo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ijkplayer_demo.release.xcconfig"; path = "Pods/Target Support Files/Pods-ijkplayer_demo/Pods-ijkplayer_demo.release.xcconfig"; sourceTree = "<group>"; };
 		F8E4A2F91583D2994C6F0F94 /* Pods-ijkplayer_demo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ijkplayer_demo.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ijkplayer_demo/Pods-ijkplayer_demo.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -77,6 +79,7 @@
 				9D95403F20DA6AC000239EDE /* libc++.tbd in Frameworks */,
 				9D95403D20DA6A6E00239EDE /* VideoToolbox.framework in Frameworks */,
 				9D95403B20DA6A6900239EDE /* UIKit.framework in Frameworks */,
+				9D95404120DB5E8800239EDE /* IJKMediaFramework.framework in Frameworks */,
 				9D95403920DA6A6100239EDE /* QuartzCore.framework in Frameworks */,
 				9D95403720DA6A5900239EDE /* OpenGLES.framework in Frameworks */,
 				9D95403520DA6A5000239EDE /* MobileCoreServices.framework in Frameworks */,
@@ -106,6 +109,7 @@
 		799C3B5BF6CB9C2475FC0D16 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				9D95404020DB5E8800239EDE /* IJKMediaFramework.framework */,
 				9D95403E20DA6AC000239EDE /* libc++.tbd */,
 				9D95403C20DA6A6E00239EDE /* VideoToolbox.framework */,
 				9D95403A20DA6A6900239EDE /* UIKit.framework */,

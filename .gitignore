@@ -25,3 +25,7 @@ xcuserdata/
 *.ipa
 *.dSYM.zip
 *.dSYM
+
+##framework
+
+IJKMediaFramework.framework/
